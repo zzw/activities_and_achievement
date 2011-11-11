@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Activities and Achievement feature.
+ */
+
+include_once('activities_and_achievement.features.inc');
